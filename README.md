@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,70:2d2d44,100:FFD700&height=220&section=header&text=Taha%20HILAL%20BIK&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Spring%20Boot%20%26%20React&descSize=18&descAlignY=55&animation=fadeIn&diff=true&stroke=FFD700&strokeWidth=2" width="100%"/>
 
-<img src="https://i.pinimg.com/originals/7f/36/0b/7f360bf5d54f735d7265423f025463ad.jpg" width="180" style="border-radius:50%; border: 4px solid #FFD700; margin-top:-90px; box-shadow: 0 0 30px rgba(255, 215, 0, 0.4);" alt="Taha HILAL BIK"/>
+<img src="https://i.pinimg.com/originals/8a/1e/03/8a1e03b972f63214cb468fabfccda836.jpg" width="180" style="border-radius:50%; border: 4px solid #FFD700; margin-top:-90px; box-shadow: 0 0 30px rgba(255, 215, 0, 0.4);" alt="Taha HILAL BIK"/>
 
 <br/>
 
@@ -90,8 +90,8 @@ AI budget tracking, Kanban tasks, medication management, invoice scanner, voice 
 [![Java OOP](https://img.shields.io/badge/Java_OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.coursera.org/verify/SKUQJK6WRTYJ)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.coursera.org/verify/HT5AB3HXJ76L)
 [![React](https://img.shields.io/badge/React_Basics-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.coursera.org/verify/XK3HQ6VJN76L)
-[![Docker & K8s](https://img.shields.io/badge/Docker_&_K8s-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.coursera.org/verify/R8T5WK3NZ5YT)
-[![Git & GitHub](https://img.shields.io/badge/Git_&_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)](https://www.coursera.org/verify/5D3E7V3TXKZJ)
+[![Docker &amp; K8s](https://img.shields.io/badge/Docker_&_K8s-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.coursera.org/verify/R8T5WK3NZ5YT)
+[![Git &amp; GitHub](https://img.shields.io/badge/Git_&_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)](https://www.coursera.org/verify/5D3E7V3TXKZJ)
 [![UML](https://img.shields.io/badge/UML-FF6B6B?style=for-the-badge)](https://www.coursera.org/verify/JB6B7MH2RYWK)
 [![Jira](https://img.shields.io/badge/Agile_Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.coursera.org/verify/X4W3MYG5NYZT)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.coursera.org/verify/7WGBN5D7LH6K)
