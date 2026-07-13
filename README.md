@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,70:2d2d44,100:FFD700&height=220&section=header&text=Taha%20HILAL%20BIK&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Spring%20Boot%20%26%20React&descSize=18&descAlignY=55&animation=fadeIn&diff=true&stroke=FFD700&strokeWidth=2" width="100%"/>
 
-<img src="https://github.com/tahahb02.png" width="180" style="border-radius:50%; border: 4px solid #FFD700; margin-top:-90px; box-shadow: 0 0 30px rgba(255, 215, 0, 0.4);" alt="Taha HILAL BIK"/>
+<img src="https://i.pinimg.com/originals/7f/36/0b/7f360bf5d54f735d7265423f025463ad.jpg" width="180" style="border-radius:50%; border: 4px solid #FFD700; margin-top:-90px; box-shadow: 0 0 30px rgba(255, 215, 0, 0.4);" alt="Taha HILAL BIK"/>
 
 <br/>
 
 <h1>Taha HILAL BIK</h1>
-<h3 style="color: #FFD700;">Full-Stack Engineer | AI Enthusiast | Spring Boot & React</h3>
+<h3 style="color: #FFD700;">Full-Stack Engineer | AI Enthusiast | Spring Boot &amp; React</h3>
 
 <p>
   <a href="https://linkedin.com/in/taha-hilalbik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
