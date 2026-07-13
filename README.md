@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,70:2d2d44,100:FFD700&height=220&section=header&text=Taha%20HILAL%20BIK&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Spring%20Boot%20%26%20React&descSize=18&descAlignY=55&animation=fadeIn&diff=true&stroke=FFD700&strokeWidth=2" width="100%"/>
 
 <!-- PROFILE IMAGE -->
-<img src="https://github.com/tahahb02.png" width="150" style="border-radius:50%; border: 4px solid #FFD700; margin-top:-75px; box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);" alt="Taha HILAL BIK"/>
+<img src="./assets/avatar.svg" width="180" style="border-radius:50%; border: 4px solid #FFD700; margin-top:-90px; box-shadow: 0 0 30px rgba(255, 215, 0, 0.4);" alt="Taha HILAL BIK"/>
 
 <br/>
 
@@ -132,22 +132,113 @@ Full-stack e-book management and distribution platform with modern UI and robust
 
 ## Experience
 
-| Period | Role | Company | Stack |
-|--------|------|---------|-------|
-| **Mar 2025 — Aug 2025** | Full Stack Developer Intern | **Web4Jobs** | `Java` `Spring Boot` `React` `MySQL` `Ollama` |
-| **Jul 2024 — Aug 2024** | Web Developer Intern | **Royal Air Maroc (RAM)** | `Java` `Spring Boot` `Thymeleaf` `MySQL` |
-| **Aug 2023 — Sep 2023** | Web Developer / Planning Intern | **Safilait (Groupe Bel)** | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
+**Full Stack Developer Intern — Web4Jobs**
+`Mar 2025 — Aug 2025` · Casablanca, Morocco
+
+Asset management platform for coding centers across Morocco & Africa
+
+- Requirements analysis & UML modeling
+- Frontend development with **ReactJS**
+- Backend development with **Java Spring Boot**
+- AI module integration (**Ollama LLM**) for predictive maintenance
+- Database management with **MySQL**
+
+`Java` `Spring Boot` `React JS` `MySQL` `Git` `Ollama`
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Web Developer Intern — Royal Air Maroc (RAM)**
+`Jul 2024 — Aug 2024` · Casablanca, Morocco
+
+Centralized parts & maintenance management application
+
+- UML system design and modeling
+- Full-stack development of the application
+- Maintenance features integration
+
+`Java` `Spring Boot` `Thymeleaf` `MySQL` `Git`
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Web Developer / Planning Intern — Safilait (Groupe Bel)**
+`Aug 2023 — Sep 2023` · Casablanca, Morocco
+
+E-commerce website for the agri-food sector
+
+- UML system modeling
+- Frontend & backend development
+- Database management for order tracking
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## Education
 
-| Period | Degree | Institution |
-|--------|--------|-------------|
-| **May 2026 — Nov 2026** | Wings Tech Intensive Training | Wings Tech by Jadara & Drosos Foundation |
-| **2022 — 2025** | Engineering Cycle in CS & Networks (MIAGE) | EMSI — École Marocaine des Sciences de l'Ingénieur |
-| **2020 — 2022** | Preparatory Classes | EMSI |
-| **2019 — 2020** | Baccalauréat in Physics & Chemistry (French Option) | Mention Bien |
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
+**Wings Tech Intensive Training**
+`May 2026 — Nov 2026` · Wings Tech by Jadara & Drosos Foundation
+
+6+ months intensive full-stack development program with hands-on projects, personal development, and practical workshops
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Engineering Cycle in CS & Networks (MIAGE)**
+`2022 — 2025` · EMSI — École Marocaine des Sciences de l'Ingénieur
+
+State Engineering Degree in Computer Science with MIAGE specialty (Methodology of Information Systems Applied to Business Management)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Preparatory Classes**
+`2020 — 2022` · EMSI
+
+Two years of intensive preparatory engineering courses
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Baccalauréat in Physics & Chemistry (French Option)**
+`2019 — 2020` · Mention Bien
+
+French section baccalaureate with honors
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -178,15 +269,15 @@ Full-stack e-book management and distribution platform with modern UI and robust
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tahahb02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&ring_color=FFD700&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tahahb02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&ring_color=FFD700&count_private=true&include_all_commits=true&cache_bust=1" width="49%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahahb02&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD700&fire=FFA500&currStreakLabel=FFD700" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahahb02&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=888888&cache_bust=1" width="49%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahb02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&langs_count=8" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahb02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&langs_count=8&cache_bust=1" width="49%" alt="Top Languages"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=tahahb02&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10" width="48%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tahahb02&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&bg_color=0d1117&cache_bust=1" width="49%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -196,7 +287,7 @@ Full-stack e-book management and distribution platform with modern UI and robust
 
 <div align="center">
 
-![Taha's GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=tahahb02&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area=true&area_color=FFD700&hide_border=true)
+![Taha's GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=tahahb02&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area=true&area_color=FFD700&hide_border=true&cache_bust=1)
 
 </div>
 
