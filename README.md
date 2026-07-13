@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,70:2d2d44,100:FFD700&height=220&section=header&text=Taha%20HILAL%20BIK&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Spring%20Boot%20%26%20React&descSize=18&descAlignY=55&animation=fadeIn&diff=true&stroke=FFD700&strokeWidth=2" width="100%"/>
 
-<img src="./assets/avatar.svg" width="180" style="border-radius:50%; border: 4px solid #FFD700; margin-top:-90px; box-shadow: 0 0 30px rgba(255, 215, 0, 0.4);" alt="Taha HILAL BIK"/>
+<img src="https://github.com/tahahb02.png" width="180" style="border-radius:50%; border: 4px solid #FFD700; margin-top:-90px; box-shadow: 0 0 30px rgba(255, 215, 0, 0.4);" alt="Taha HILAL BIK"/>
 
 <br/>
 
@@ -105,15 +105,13 @@ AI budget tracking, Kanban tasks, medication management, invoice scanner, voice 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tahahb02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&ring_color=FFD700&count_private=true&include_all_commits=true&cache_bust=1" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-ashen-sigma.vercel.app/api?username=tahahb02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&ring_color=FFD700&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahahb02&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=888888&cache_bust=1" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahahb02&theme=tokyonight&hide_border=true&background=0d1117&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=888888" width="49%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahb02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&langs_count=8&cache_bust=1" width="49%" alt="Top Languages"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tahahb02&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&bg_color=0d1117&cache_bust=1" width="49%" alt="GitHub Trophies"/>
+<img src="https://github-readme-stats-ashen-sigma.vercel.app/api/top-langs/?username=tahahb02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages"/>
 
 </div>
 
