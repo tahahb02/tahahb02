@@ -4,10 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:1a1a2e,70:2d2d44,100:FFD700&amp;height=220&amp;section=header&amp;text=Taha%20HILAL%20BIK&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Spring%20Boot%20React&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn&amp;diff=true&amp;stroke=FFD700&amp;strokeWidth=2" width="100%"/>
 </a>
 
-<img src="https://i.pinimg.com/originals/8a/1e/03/8a1e03b972f63214cb468fabfccda836.jpg" width="300" alt="Taha HILAL BIK"/>
-
-<br/>
-
 # Taha HILAL BIK
 
 ### Full-Stack Engineer | AI Enthusiast | Spring Boot | React
