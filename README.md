@@ -1,24 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:1a1a2e,70:2d2d44,100:FFD700&amp;height=220&amp;section=header&amp;text=Taha%20HILAL%20BIK&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Spring%20Boot%20%26%20React&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn&amp;diff=true&amp;stroke=FFD700&amp;strokeWidth=2" width="100%"/>
+<a href="https://github.com/tahahb02">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:1a1a2e,70:2d2d44,100:FFD700&amp;height=220&amp;section=header&amp;text=Taha%20HILAL%20BIK&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Spring%20Boot%20React&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn&amp;diff=true&amp;stroke=FFD700&amp;strokeWidth=2" width="100%"/>
+</a>
+
+<img src="https://i.pinimg.com/originals/8a/1e/03/8a1e03b972f63214cb468fabfccda836.jpg" width="300" alt="Taha HILAL BIK"/>
 
 <br/>
 
-<img src="https://i.pinimg.com/originals/8a/1e/03/8a1e03b972f63214cb468fabfccda836.jpg" width="300" style="border-radius:50%; border: 4px solid #FFD700; box-shadow: 0 0 30px rgba(255, 215, 0, 0.4);" alt="Taha HILAL BIK"/>
+# Taha HILAL BIK
 
-<br/>
+### Full-Stack Engineer | AI Enthusiast | Spring Boot | React
 
-<h1>Taha HILAL BIK</h1>
-<h3 style="color: #FFD700;">Full-Stack Engineer | AI Enthusiast | Spring Boot &amp; React</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/taha-hilalbik)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:hilalbiktaha@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/tahahb02)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&amp;logo=vercel&amp;logoColor=black)](https://portfolio-taha-eosin.vercel.app)
 
-<p>
-  <a href="https://linkedin.com/in/taha-hilalbik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:hilalbiktaha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/tahahb02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
-  <a href="https://portfolio-taha-eosin.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&amp;logo=vercel&amp;logoColor=black" alt="Portfolio"/></a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=FFD700&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=100&amp;lines=Building+Scalable+Full-Stack+Applications;Passionate+about+AI+%26+Machine+Learning;Crafting+Clean+and+Efficient+Code;Open+to+Collaborative+Projects" alt="Typing SVG" style="margin: 20px 0;"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=FFD700&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=100&amp;lines=Building+Scalable+Full-Stack+Applications;Passionate+about+AI+and+Machine+Learning;Crafting+Clean+and+Efficient+Code;Open+to+Collaborative+Projects)
 
 </div>
 
@@ -92,8 +91,8 @@ AI budget tracking, Kanban tasks, medication management, invoice scanner, voice 
 [![Java OOP](https://img.shields.io/badge/Java_OOP-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)](https://www.coursera.org/verify/SKUQJK6WRTYJ)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)](https://www.coursera.org/verify/HT5AB3HXJ76L)
 [![React](https://img.shields.io/badge/React_Basics-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)](https://www.coursera.org/verify/XK3HQ6VJN76L)
-[![Docker &amp; K8s](https://img.shields.io/badge/Docker_%26_K8s-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)](https://www.coursera.org/verify/R8T5WK3NZ5YT)
-[![Git &amp; GitHub](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)](https://www.coursera.org/verify/5D3E7V3TXKZJ)
+[![Docker K8s](https://img.shields.io/badge/Docker_K8s-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)](https://www.coursera.org/verify/R8T5WK3NZ5YT)
+[![Git GitHub](https://img.shields.io/badge/Git_GitHub-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)](https://www.coursera.org/verify/5D3E7V3TXKZJ)
 [![UML](https://img.shields.io/badge/UML-FF6B6B?style=for-the-badge)](https://www.coursera.org/verify/JB6B7MH2RYWK)
 [![Jira](https://img.shields.io/badge/Agile_Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white)](https://www.coursera.org/verify/X4W3MYG5NYZT)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white)](https://www.coursera.org/verify/7WGBN5D7LH6K)
@@ -107,13 +106,11 @@ AI budget tracking, Kanban tasks, medication management, invoice scanner, voice 
 
 <div align="center">
 
-<img src="https://github-readme-stats-ashen-sigma.vercel.app/api?username=tahahb02&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FFD700&amp;icon_color=FFD700&amp;text_color=c9d1d9&amp;ring_color=FFD700&amp;count_private=true&amp;include_all_commits=true" width="49%" alt="GitHub Stats"/>
+![GitHub Stats](https://github-readme-stats-ashen-sigma.vercel.app/api?username=tahahb02&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FFD700&amp;icon_color=FFD700&amp;text_color=c9d1d9&amp;ring_color=FFD700&amp;count_private=true&amp;include_all_commits=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahahb02&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=FFD700&amp;fire=FFA500&amp;currStreakLabel=FFD700&amp;sideNums=FFD700&amp;sideLabels=FFD700&amp;dates=888888" width="49%" alt="GitHub Streak"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahahb02&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=FFD700&amp;fire=FFA500&amp;currStreakLabel=FFD700&amp;sideNums=FFD700&amp;sideLabels=FFD700&amp;dates=888888)
 
-<br/>
-
-<img src="https://github-readme-stats-ashen-sigma.vercel.app/api/top-langs/?username=tahahb02&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FFD700&amp;text_color=c9d1d9&amp;langs_count=8" width="49%" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats-ashen-sigma.vercel.app/api/top-langs/?username=tahahb02&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FFD700&amp;text_color=c9d1d9&amp;langs_count=8)
 
 </div>
 
@@ -130,6 +127,6 @@ AI budget tracking, Kanban tasks, medication management, invoice scanner, voice 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:1a1a2e,70:2d2d44,100:FFD700&amp;height=120&amp;section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:1a1a2e,70:2d2d44,100:FFD700&amp;height=120&amp;section=footer)
 
 </div>
