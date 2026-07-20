@@ -23,7 +23,7 @@
 
 - **Location:** Casablanca, Morocco
 - **Engineer in CS (MIAGE)** from EMSI
-- **Currently:** Wings Tech Intensive Training (6+ months full-stack)
+- **Currently:** Wings Tech Intensive Training (6+ months full-stack) By Jadara & Drosos Foundation 
 - **Ex:** Web4Jobs · Royal Air Maroc · Safilait (Groupe Bel)
 - **Languages:** Arabic · French · English · German
 
