@@ -50,6 +50,15 @@
 <table>
 <tr>
 <td width="50%">
+### EasyJob
+**AI-Powered Job Search Platform**
+
+Multi-source job scraping (LinkedIn, Indeed, WTJ, Rekrute, Manpower), AI-powered personalized applications, recruiter discovery, CV analysis with ATS optimization, and intelligent application tracking.
+
+`React` `Tailwind` `Node.js` `MongoDB` `Socket.io` `JWT` `AI` `Puppeteer` `OpenAI`
+
+[![GitHub](https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahahb02/EasyJob)
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black)]([https://easyjob.vercel.app](https://easyjob-theta.vercel.app/))
 
 ### MedCare AI
 **Smart Medical Platform**
