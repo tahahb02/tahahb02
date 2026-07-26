@@ -49,7 +49,8 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33.33%">
+
 ### EasyJob
 **AI-Powered Job Search Platform**
 
@@ -58,7 +59,10 @@ Multi-source job scraping (LinkedIn, Indeed, WTJ, Rekrute, Manpower), AI-powered
 `React` `Tailwind` `Node.js` `MongoDB` `Socket.io` `JWT` `AI` `Puppeteer` `OpenAI`
 
 [![GitHub](https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahahb02/EasyJob)
-[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black)]([https://easyjob.vercel.app](https://easyjob-theta.vercel.app/))
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://easyjob-theta.vercel.app)
+
+</td>
+<td width="33.33%">
 
 ### MedCare AI
 **Smart Medical Platform**
@@ -67,11 +71,11 @@ AI-powered patient management, teleconsultation, clinical AI, e-prescriptions.
 
 `React` `Tailwind` `Node.js` `MongoDB` `Socket.io` `JWT` `AI`
 
-[![GitHub](https://img.shields.io/badge/Code-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/tahahb02/MedCare-AI)
-[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&amp;logo=vercel&amp;logoColor=black)](https://medcare-ai-jet.vercel.app)
+[![GitHub](https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahahb02/MedCare-AI)
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://medcare-ai-jet.vercel.app)
 
 </td>
-<td width="50%">
+<td width="33.33%">
 
 ### SmartLife AI
 **Smart Daily Life Assistant**
@@ -80,8 +84,8 @@ AI budget tracking, Kanban tasks, medication management, invoice scanner, voice 
 
 `React` `Tailwind` `Framer Motion` `OpenAI` `Gemini` `Docker` `PWA`
 
-[![GitHub](https://img.shields.io/badge/Code-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/tahahb02/Smart-Life-AI)
-[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&amp;logo=vercel&amp;logoColor=black)](https://smartlife-ai-eight.vercel.app)
+[![GitHub](https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahahb02/Smart-Life-AI)
+[![Live](https://img.shields.io/badge/Live-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://smartlife-ai-eight.vercel.app)
 
 </td>
 </tr>
